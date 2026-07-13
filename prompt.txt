@@ -1,0 +1,3 @@
+Here is the prompt for "Something Missing" section - 
+
+create a FAQ section below the pricing section and above the footer. There will be 4 relevant questions and answers about session recordings, certificates, refund policy, and student ticket verification. Give it accurately.
