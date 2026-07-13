@@ -12,7 +12,6 @@ body {
     background-color: #f9f9f9;
 }
 
-/* A reusable container to keep content centered with padding */
 .container {
     width: 90%;
     max-width: 1100px;
@@ -25,8 +24,20 @@ body {
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
-    font-weight: bold;
+    font-weight: 500;
     transition: background-color 0.3s ease;
+}
+
+.btn1{
+    background-color: #ffffff !important;
+    border: 1px solid #0056b3;
+    color: #0056b3 !important;
+}
+
+.btn3{
+    background-color: #ffffff !important;
+    border: 1px solid #000000;
+    color: #000000 !important;
 }
 
 .btn-primary {
@@ -37,6 +48,7 @@ body {
 .btn-primary:hover {
     background-color: #004494;
 }
+
 
 .header {
     background-color: #fff;
@@ -55,7 +67,6 @@ body {
 
 .logo img {
     height: 40px;
-
 }
 
 .nav-links {
@@ -112,6 +123,7 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
+
 
 .speakers-section {
     padding: 80px 0;
@@ -179,6 +191,7 @@ body {
     font-size: 0.9rem;
     color: #666;
 }
+
 
 .register-section {
     padding: 80px 0;
@@ -294,6 +307,7 @@ body {
 }
 
 
+
 li::marker {
     color: #60A5FA;
 }
@@ -305,7 +319,6 @@ li::marker {
 .pricing-card .btn {
     width: 100%;
 }
-
 
 
 .footer {
